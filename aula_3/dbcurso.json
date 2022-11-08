@@ -1,0 +1,47 @@
+{
+    "Clientes": [
+        {
+            "nome": "Thamires Santos",
+            "endereço": "Rua das Flores",
+            "bairro": "Santa Cruz",
+            "cidade": "Rio de Janeiro",
+            "email": "thamiresstsantos@gmail.com",
+            "id": 1
+        },
+        {
+            "nome": "Matheus",
+            "endereço": "Rua das Flores",
+            "bairro": "Santa Cruz",
+            "cidade": "Rio de Janeiro",
+            "email": "thamiresstsantos@gmail.com",
+            "id": 2
+        },
+        {
+            "nome": "Guilherme",
+            "endereço": "Rua das Flores",
+            "bairro": "Santa Cruz",
+            "cidade": "Rio de Janeiro",
+            "email": "thamiresstsantos@gmail.com",
+            "id": 3
+        }
+    ],
+    "tratamentos": [
+        {
+            "nome": "massagem modeladora",
+            "id": 1
+        },
+        {
+            "nome": "limpeza de pele",
+            "id": 2
+        },
+        {
+            "nome": "Depilação",
+            "id": 3
+        },
+        {
+            "nome": "criolipolise",
+            "id": 4
+
+        }
+    ]
+}
